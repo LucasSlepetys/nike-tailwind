@@ -1,7 +1,7 @@
 import { GalleryImg } from './GalleryImg';
 import React from 'react';
 import shoe2 from '../assets/shoe_2.jpg';
-import shoe from '../assets/shoe.jpg';
+import shoe from '../assets/Shoe.jpg';
 import shoe3 from '../assets/shoe_3.jpg';
 import shoe4 from '../assets/shoe_4.jpg';
 import shoe5 from '../assets/shoe_5.jpg';
